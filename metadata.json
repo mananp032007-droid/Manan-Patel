@@ -1,0 +1,6 @@
+{
+  "name": "OpenJarvis",
+  "description": "Personal AI voice assistant inspired by OpenJarvis with voice input/output, tool-using agents, local-first memory, execution telemetry traces, and hybrid Gemini AI Logic or self-hosted OpenJarvis endpoint support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

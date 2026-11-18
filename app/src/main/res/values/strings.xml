@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OpenJarvis</string>
+    <string name="nav_assistant">Assistant</string>
+    <string name="nav_memory_tools">Memory &amp; Tools</string>
+    <string name="nav_engine_traces">Engine &amp; Traces</string>
+    <string name="firebase_notice_title">Sample Cloud AI Mode</string>
+    <string name="firebase_notice_body">Cloud Gemini features require Firebase AI Logic. Showing sample responses &amp; local tools—or connect a local OpenJarvis server in Engine.</string>
+    <string name="voice_tap_to_speak">Tap orb or mic to speak</string>
+    <string name="voice_listening">Listening…</string>
+    <string name="voice_thinking">Running OpenJarvis agent…</string>
+    <string name="voice_speaking">Speaking response…</string>
+    <string name="mic_permission_needed">Microphone permission is needed for voice commands. You can also type below.</string>
+    <string name="empty_chat_title">OpenJarvis Ready</string>
+    <string name="empty_chat_subtitle">Speak or type a prompt. Try saving a memory, running a calculation, adding a task, or connecting jarvis serve.</string>
+    <string name="empty_memories">No personal memories saved yet. Tell OpenJarvis to remember something or add a fact below.</string>
+    <string name="empty_tasks">No active tasks. Ask OpenJarvis to remind you of something or add one here.</string>
+    <string name="empty_traces">No execution traces recorded yet. Send a prompt to inspect latency, engine, and tool telemetry.</string>
+</resources>
